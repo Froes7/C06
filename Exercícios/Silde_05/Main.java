@@ -35,8 +35,8 @@ public class Main {
             }
             
             System.out.printf("Para onde você quer se mover?%n1_Cima%n2_Baixo%n3_Esquerda%n4_Direita%n");
-            c = scan.nextInt();
             System.out.println();
+            c = scan.nextInt();
             m = campo.Mover(c);
             campo.CheckMorto();
 
