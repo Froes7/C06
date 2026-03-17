@@ -17,7 +17,7 @@ public class Matriz {
         while (i < x){
             bombas.x = rand.nextInt(10);
             bombas.y = rand.nextInt(10);
-            System.out.printf("%nx:%d%ny:%d%n", bombas.x, bombas.y);
+            // System.out.printf("%nx:%d%ny:%d%n", bombas.x, bombas.y);
             
             if(coords[bombas.x][bombas.y] == false && (bombas.x !=4 && bombas.y != 4)){
                 coords[bombas.x][bombas.y] = true;
