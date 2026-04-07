@@ -13,7 +13,7 @@
 Este projeto contou com o auxílio de inteligência artificial como apoio didático para esclarecimento de dúvidas conceituais e correção de bugs na fase final.
 
 Nenhum código foi copiado diretamente, todo
-código do projeto foi escrito manualmente do início ao fim do processo de criação do projeto.
+código do projeto foi escrito manualmente do início ao fim de seu processo de criação.
 
 ### Prompts Utilizados (exemplos)
 
@@ -27,7 +27,7 @@ código do projeto foi escrito manualmente do início ao fim do processo de cria
 "Chat me passa uma lista de principais formatações do printf?"
 ```
 
-**Resultado:** Satisfatório. Permitiu o uso de diferentes formatações para impressão de variáveis.
+**Resultado:** Satisfatório. Permitiu o uso de formatações para impressão de diferentes tipos de variáveis.
 
 ```
 "Chat, o que esse erro significa? ..."
@@ -39,8 +39,8 @@ código do projeto foi escrito manualmente do início ao fim do processo de cria
 "Chat durante toda essa conversa evite me dar exemplos diretos de códigos escritos em java."
 ```
 
-**Resultado** Satisfatório. Além de impulsionar o meu aprendizado, me ajudou a tratar conceitos e a otimizar o projeto sem me dar respostas ou códigos para serem copiados diretamente.
+**Resultado** Satisfatório. Além de impulsionar o meu aprendizado, me ajudou a tratar conceitos e a otimizar o projeto sem me oferecer códigos para serem copiados diretamente.
 
 ## Conclusão
 
-A inteligência artificial foi utilizada apenas como ferramenta de estudo, também foi utilizado como referência os materiais diponibilizados pelo professor Christopher Lima e minhas resoluções de exercícios passados no anteriormente no semestre.
+A inteligência artificial foi utilizada apenas como ferramenta de estudo, também foi utilizado como referência os materiais diponibilizados pelo professor Christopher Lima e minhas resoluções de exercícios passados anteriormente no semestre.
