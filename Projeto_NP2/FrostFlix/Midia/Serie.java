@@ -1,6 +1,6 @@
 package Midia;
 
-public class Serie extends Conteudo implements Reprodutivel{
+public class Serie extends Conteudo{
     
     int nTemps;
 
