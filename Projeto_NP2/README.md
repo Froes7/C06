@@ -1,4 +1,4 @@
-# FrozFlix
+# FrostFlix
 
 > **Alunos:** Pedro Fróes Padilha Demétrio, Eduardo Kawatani Rios
 >
