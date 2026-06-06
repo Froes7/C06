@@ -20,7 +20,7 @@ public class plataforma {
         System.out.printf("%nO que vamos assistir hoje?");
         while(entrada!=4){
             
-            System.out.printf("%n1_Catálogo de filmes%n2_Catálogo de séries%n3_Pesquisar%n4_sair%n");
+            System.out.printf("%n1_Catálogo de filmes%n2_Catálogo de séries%n3_Sair%n");
             entrada = scan.nextInt();
             scan.nextLine();
 
@@ -30,9 +30,6 @@ public class plataforma {
                     listarCatalogo(entrada);
                     break;
                 case 3:
-                    System.out.printf("%nFuncionalidade não disponível.%n");
-                    break;
-                case 4:
                     break;
                 default:
                     System.out.printf("%nInsira uma opção válida!%n");
