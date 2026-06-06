@@ -1,9 +1,0 @@
-- Arrumar a quantidade de zeros de quando imprime a nota
-- funcionalidade de pesquisar
-- funcionalidade de reproduzir
-- series completas (dificil)
-- ReadMe
-- threads
-- interface
-- polimorfismo
-- UML
